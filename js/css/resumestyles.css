@@ -1,0 +1,85 @@
+.common{
+    text-align: center;
+    /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
+    font-family: 'Courier New', Courier, monospace;
+}
+nav{
+    background-color: #FAF4F0;
+    padding: 10px;
+    overflow: hidden;
+    
+}
+nav a{
+    float: left;
+    color: black;
+    padding: 10px 13px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: #ccc;
+    
+}
+.header{
+    background-color: #077187;
+    color: white;
+    height:350px;
+    line-height: 100px;
+}
+.mainbody{
+    background-color:#A1C7CE;
+}
+.footer{
+    background-color: #077187;
+    height: 25px;
+    color: white;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+}
+ol{
+    list-style-position:inside;
+    font-size: x-large;
+    text-align: center left;
+}
+.profilepic{
+    border-radius: 50%;
+    width:200px;
+    height: 200px;
+}
+ul{
+    margin-left: 0;
+    font-size: medium;
+    text-align: left center;
+}
+li{
+    padding-top: 20px;
+}
+.save{
+    text-align:center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.saveimg{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    font-size: medium;
+    text-align: center;
+
+}
+.savebg{
+    background-color: #A8415B;
+}
+.savenav{
+    background-color: #A8415B;
+}
+
+  
